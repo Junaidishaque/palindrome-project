@@ -1,0 +1,13 @@
+body{background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);}
+.container{margin-left: 350px!important;}
+.container div{height: 400px ; width: 400px; border: 2px solid; margin-left: 150px; margin-top: 50px;
+box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); }
+.container h1{font-size: 80px; font-weight: bold; color: antiquewhite;}
+.container input{margin-left: 50px; height: 40px; width: 300px; margin-top: 40px; font-size: 25px; font-weight: bold;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+border: 2px solid;}
+.container button{margin-top: 20px;margin-left: 130px; width: 150px; height: 50px; font-size: 30px;
+font-weight: bold;}
+p{margin-left: 50px; margin-top: 30px!important; font-size: 25px; font-weight: bold ; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: antiquewhite;} 
